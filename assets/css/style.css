@@ -1013,6 +1013,16 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+/*
+you added this bit below to align
+*/
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* adjust this if needed */
+}
 .contact .info {
   width: 100%;
   background: #fff;
