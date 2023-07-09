@@ -1010,6 +1010,12 @@ section {
   }
 }
 
+#contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
@@ -1146,6 +1152,7 @@ you added this bit below to align
 
 .contact .php-email-form button[type=submit]:hover {
   background: #0678e3;
+}
 }
 
 @keyframes animate-loading {
