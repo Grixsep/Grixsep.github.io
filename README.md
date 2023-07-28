@@ -8,7 +8,7 @@ I'm currently in my final year of studying for my MEng in Mechanical Engineering
 - 🌱 I’m currently learning everything I can about robotics and mechanical engineering.
 - 👯 I’m looking to collaborate on any interesting robotics projects.
 - 💬 Ask me about mechanical engineering, programming, or robotics!
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:pdewhurst0@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: (Share a fun fact about yourself!)
 
